@@ -1,0 +1,2 @@
+CCGatewayTest purchase https://test.littleservices.com/gateway/processor.do 1 abc 4242424242424242 1111 order-123 7000
+CCGatewayTest refund https://test.littleservices.com/gateway/processor.do 1 abc 14 order-123 ref-123 5000

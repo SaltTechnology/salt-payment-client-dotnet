@@ -1,0 +1,9 @@
+# Automatically detect text files. Convert line endings when checking out
+# and committing text files.
+* text=auto
+
+# Treat files with these extensions as binary.
+# (binary is a macro equivalent to -diff -merge -text)
+*.gif binary
+*.jpg binary
+*.png binary

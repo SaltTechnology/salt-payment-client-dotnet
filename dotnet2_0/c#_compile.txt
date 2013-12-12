@@ -1,0 +1,1 @@
+csc /t:library /out:../../../../salt-coreapi-creditcard-merchant.dll *.cs

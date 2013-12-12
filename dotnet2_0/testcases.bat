@@ -1,0 +1,2 @@
+CCGatewayTest purchase http://gateway01.dev.salt.com:8080/gateway/creditcard/processor.do 1 abc 4242424242424242 1111 matt123 7000
+CCGatewayTest refund http://gateway01.dev.salt.com:8080/gateway/creditcard/processor.do 1 abc 14 matt123 ref-123 5000
